@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "net.surguy.tgeo",
+      "sha256_cert_fingerprints": ["5A:88:C2:D5:7E:2B:0C:35:EE:3D:AC:6A:04:3E:F6:4C:D7:D6:FE:9D:49:26:11:77:CF:F6:62:71:4C:B2:87:54"]
+    }
+  }
+]
